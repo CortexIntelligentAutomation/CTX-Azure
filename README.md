@@ -49,16 +49,16 @@ None Required.
 
 ### Files
 The CTX-Azure module requires the following files:
-* [CTX-Azure Studio Package](https://github.com/CortexIATest/CTXExcel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.2.studiopkg)
+* [CTX-Azure Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Azure/releases/download/v1.0/CTX-Azure.studiopkg)
 
 ### Other Requisites
-The CTX-Azure module requires an 'Azure Active Directory Application' to be created. Details on how to create this can be found in the [User Guide]()
+The CTX-Azure module requires an 'Azure Active Directory Application' to be created. Details on how to create this can be found in the [User Guide](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20User%20Guide.pdf)
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTXExcel%20-%20LLD%20-%20v2.2.docx). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
