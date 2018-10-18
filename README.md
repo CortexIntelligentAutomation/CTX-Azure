@@ -52,7 +52,7 @@ The CTX-Azure module requires the following files:
 * [CTX-Azure Studio Package](https://github.com/CortexIntelligentAutomation/CTX-Azure/releases/download/v1.0/CTX-Azure.studiopkg)
 
 ### Other Requisites
-The CTX-Azure module requires an 'Azure Active Directory Application' to be created. Details on how to create this can be found in the [User Guide](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20User%20Guide.pdf)
+The CTX-Azure module requires an 'Azure Active Directory Application' to be created. Details on how to create this can be found in the [User Guide](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20User%20Guide.pdf).
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20Deployment%20Plan.pdf).
