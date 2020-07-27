@@ -34,6 +34,7 @@ The module allows users to perform the following functionality:
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other-requisites)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -53,6 +54,9 @@ The CTX-Azure module requires the following files:
 
 ### Other Requisites
 The CTX-Azure module requires an 'Azure Active Directory Application' to be created. Details on how to create this can be found in the [User Guide](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20User%20Guide.pdf).
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Azure/blob/master/CTX-Azure%20-%20Deployment%20Plan.pdf).
